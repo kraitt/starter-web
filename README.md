@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 ## Introduction
 Some random introduction
+
+## How to contribute
